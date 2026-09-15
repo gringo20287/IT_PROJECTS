@@ -1,0 +1,136 @@
+C:\Users\012-26>dir
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: 0670-383C
+
+ Содержимое папки C:\Users\012-26
+
+15.09.2026  15:31    <DIR>          .
+15.09.2026  15:31    <DIR>          ..
+15.09.2026  15:31    <DIR>          .config
+08.09.2026  15:08    <DIR>          .vscode
+08.09.2026  14:54    <DIR>          3D Objects
+08.09.2026  14:54    <DIR>          Contacts
+15.09.2026  15:27    <DIR>          Desktop
+08.09.2026  16:11    <DIR>          Documents
+08.09.2026  14:54    <DIR>          Downloads
+08.09.2026  14:54    <DIR>          Favorites
+08.09.2026  14:54    <DIR>          Links
+08.09.2026  14:54    <DIR>          Music
+08.09.2026  14:55    <DIR>          OneDrive
+08.09.2026  14:54    <DIR>          Pictures
+08.09.2026  14:54    <DIR>          Saved Games
+15.09.2026  15:32    <DIR>          scoop
+08.09.2026  14:55    <DIR>          Searches
+08.09.2026  14:54    <DIR>          Videos
+               0 файлов              0 байт
+              18 папок  197 076 758 528 байт свободно
+
+C:\Users\012-26>cd Desktop
+
+C:\Users\012-26\Desktop>mkdir ROOT_LABYRINTH
+
+C:\Users\012-26\Desktop>dir
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: 0670-383C
+
+ Содержимое папки C:\Users\012-26\Desktop
+
+15.09.2026  15:49    <DIR>          .
+15.09.2026  15:49    <DIR>          ..
+15.09.2026  15:25               216 file.txt
+08.09.2026  16:10    <DIR>          IT_PROJECTS
+15.09.2026  15:27               214 matrix.bat
+08.09.2026  14:54    <DIR>          NC2 Common Files
+15.09.2026  15:16    <DIR>          nigga
+15.09.2026  15:49    <DIR>          ROOT_LABYRINTH
+               2 файлов            430 байт
+               6 папок  197 076 561 920 байт свободно
+
+C:\Users\012-26\Desktop>cd ROOT_LABYRINTH
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH>mkdir
+Ошибка в синтаксисе команды.
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH>mkdir
+Ошибка в синтаксисе команды.
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH>mkdir SEKTOR_A
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH>mkdir SEKTOR_B
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH>dir
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: 0670-383C
+
+ Содержимое папки C:\Users\012-26\Desktop\ROOT_LABYRINTH
+
+15.09.2026  15:52    <DIR>          .
+15.09.2026  15:52    <DIR>          ..
+15.09.2026  15:51    <DIR>          SEKTOR_A
+15.09.2026  15:52    <DIR>          SEKTOR_B
+               0 файлов              0 байт
+               4 папок  197 072 420 864 байт свободно
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH>cd sector_a
+Системе не удается найти указанный путь.
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH>cd SEKTOR_A
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH\SEKTOR_A> echo Konstantinov secret.txt
+Konstantinov secret.txt
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH\SEKTOR_A>
+C:\Users\012-26\Desktop\ROOT_LABYRINTH\SEKTOR_A>cd..
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH>cd SEKTOR_B
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH\SEKTOR_B> echo is-26-7k history_log.txt
+is-26-7k history_log.txt
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH\SEKTOR_B>cd..
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH>cd..
+
+C:\Users\012-26\Desktop>del ROOT_LABYRINTH
+C:\Users\012-26\Desktop\ROOT_LABYRINTH\*, вы уверены [Y(да)/N(нет)]? y
+
+C:\Users\012-26\Desktop>mkdir ROOT_LABYRINTH
+Подпапка или файл ROOT_LABYRINTH уже существует.
+
+C:\Users\012-26\Desktop>mkdir ROOT_LABYRINTH
+
+C:\Users\012-26\Desktop>echo mkdir ROOT_LABYRINTH work.txt
+mkdir ROOT_LABYRINTH work.txt
+
+C:\Users\012-26\Desktop>work.txt
+
+C:\Users\012-26\Desktop>cd ROOT_LABYRINTH
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH>mkdir SECTOR_A
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH>cd SECTOR_A
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH\SECTOR_A>echo Konstantinov secret.txt
+Konstantinov secret.txt
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH\SECTOR_A>cd..
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH>mkdir SECTOR_B
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH>cd SECTOR_B
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH\SECTOR_B>echo is-26-7k history_log.txt
+is-26-7k history_log.txt
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH\SECTOR_B>mkdir echo Konstantinov secret.txt
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH\SECTOR_B>
+C:\Users\012-26\Desktop\ROOT_LABYRINTH\SECTOR_B>echo > history_log.txt
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH\SECTOR_B>cd..
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH>cd SECTOR_A
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH\SECTOR_A>echo > secret.txt
+
+C:\Users\012-26\Desktop\ROOT_LABYRINTH\SECTOR_A>
